@@ -25617,7 +25617,6 @@ GameObject:
   - component: {fileID: 741101218}
   - component: {fileID: 741101222}
   - component: {fileID: 741101221}
-  - component: {fileID: 741101220}
   - component: {fileID: 741101219}
   - component: {fileID: 741101223}
   - component: {fileID: 741101225}
@@ -25644,13 +25643,6 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!81 &741101219
 AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 741101217}
-  m_Enabled: 1
---- !u!92 &741101220
-Behaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
