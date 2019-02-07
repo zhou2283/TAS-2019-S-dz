@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\dongz\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\dongz\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_New Unity Project.-1109918478.00" t="ExcludeRecursive" />
+    <e p="C:\Users\dongz\Desktop\GitProject\TAS-2019-S-dz\New Unity Project" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Bezier.cs" t="Include" />
+        <e p="BezierControlPointMode.cs" t="Include" />
+        <e p="BezierCurve.cs" t="Include" />
+        <e p="BezierSpline.cs" t="Include" />
+        <e p="Editor" t="Include">
+          <e p="BezierCurveInspector.cs" t="Include" />
+          <e p="BezierSplineInspector.cs" t="Include" />
+          <e p="LineInspector.cs" t="Include" />
+        </e>
+        <e p="Line.cs" t="Include" />
+        <e p="SplineDecorator.cs" t="Include" />
+        <e p="SplineWalker.cs" t="Include" />
+        <e p="SplineWalkerMode.cs" t="Include" />
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="New Unity Project.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
