@@ -28,7 +28,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6050e2d5de785ce4d931e4dbdbf2d755, type: 3}
   m_Name: ChromaticAberration
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
@@ -109,7 +109,7 @@ MonoBehaviour:
     defaultState: 1
   tonemapper:
     overrideState: 1
-    value: 0
+    value: 2
   toneCurveToeStrength:
     overrideState: 0
     value: 0
@@ -136,8 +136,8 @@ MonoBehaviour:
     overrideState: 0
     value: 1
   temperature:
-    overrideState: 0
-    value: 0
+    overrideState: 1
+    value: 81.31
   tint:
     overrideState: 0
     value: 0
@@ -145,20 +145,20 @@ MonoBehaviour:
     overrideState: 0
     value: {r: 1, g: 1, b: 1, a: 1}
   hueShift:
-    overrideState: 0
+    overrideState: 1
     value: 0
   saturation:
-    overrideState: 0
-    value: -13.46
+    overrideState: 1
+    value: -35
   brightness:
     overrideState: 0
     value: 0
   postExposure:
     overrideState: 1
-    value: 1.8
+    value: 0.65
   contrast:
     overrideState: 1
-    value: -15.9
+    value: 32.6
   mixerRedOutRedIn:
     overrideState: 0
     value: 100
@@ -1415,7 +1415,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 1.48
+    value: 3.09
   color:
     overrideState: 1
     value: {r: 0.13096298, g: 0.20224674, b: 0.254717, a: 1}
@@ -1454,7 +1454,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 556797029e73b2347956b6579e77e05b, type: 3}
   m_Name: DepthOfField
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1

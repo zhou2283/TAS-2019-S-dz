@@ -229,8 +229,6 @@ public class BezierSpline : MonoBehaviour {
 	}
 
 	
-
-	
 	public float GetTimeWithDistance (float d) {
 		for (int i = 0; i < timeToDistanceArray.Length - 1; i++)
 		{
