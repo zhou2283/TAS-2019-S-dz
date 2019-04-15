@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: b71441006fbee484a90235bb2ad89483
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone.001
+    100006: Bone.001_end
+    100008: Bone_end
+    100010: Camera
+    100012: Head
+    100014: Head_end
+    100016: Lamp
+    100018: pSphere1
+    100020: //RootNode
+    100022: Root
+    100024: Root.001
+    100026: Root.002
+    100028: Root.003
+    100030: Root.004
+    100032: Root.004_end
+    100034: Root.005
+    100036: Root.006
+    100038: Root.007
+    100040: Root.008
+    100042: Root.008_end
+    100044: Root.009
+    100046: Root.010
+    100048: Root.011
+    100050: Root.012
+    100052: Root.012_end
+    100054: Root.013
+    100056: Root.014
+    100058: Root.015
+    100060: Root.016
+    100062: Root.016_end
+    100064: Root.017
+    100066: Root.018
+    100068: Root.019
+    100070: Root.020
+    100072: Root.020_end
+    100074: Root.021
+    100076: Root.022
+    100078: Root.023
+    100080: Root.024
+    100082: Root.024_end
+    100084: Root.025
+    100086: Root.026
+    100088: Root.027
+    100090: Root.028
+    100092: Root.028_end
+    100094: Root.029
+    100096: Root.030
+    100098: Root.031
+    100100: Root.032
+    100102: Root.032_end
+    400000: Armature
+    400002: Bone
+    400004: Bone.001
+    400006: Bone.001_end
+    400008: Bone_end
+    400010: Camera
+    400012: Head
+    400014: Head_end
+    400016: Lamp
+    400018: pSphere1
+    400020: //RootNode
+    400022: Root
+    400024: Root.001
+    400026: Root.002
+    400028: Root.003
+    400030: Root.004
+    400032: Root.004_end
+    400034: Root.005
+    400036: Root.006
+    400038: Root.007
+    400040: Root.008
+    400042: Root.008_end
+    400044: Root.009
+    400046: Root.010
+    400048: Root.011
+    400050: Root.012
+    400052: Root.012_end
+    400054: Root.013
+    400056: Root.014
+    400058: Root.015
+    400060: Root.016
+    400062: Root.016_end
+    400064: Root.017
+    400066: Root.018
+    400068: Root.019
+    400070: Root.020
+    400072: Root.020_end
+    400074: Root.021
+    400076: Root.022
+    400078: Root.023
+    400080: Root.024
+    400082: Root.024_end
+    400084: Root.025
+    400086: Root.026
+    400088: Root.027
+    400090: Root.028
+    400092: Root.028_end
+    400094: Root.029
+    400096: Root.030
+    400098: Root.031
+    400100: Root.032
+    400102: Root.032_end
+    2000000: Camera
+    2100000: lambert1
+    4300000: pSphere1
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: pSphere1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
