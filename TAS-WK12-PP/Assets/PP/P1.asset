@@ -163,11 +163,11 @@ MonoBehaviour:
     value: 1
   ldrLut:
     overrideState: 1
-    value: {fileID: 2800000, guid: a07ffda95e74da844b205df96101aa66, type: 3}
+    value: {fileID: 2800000, guid: cce0f58e0b4ae4440b95ebf8488b4d84, type: 3}
     defaultState: 4
   ldrLutContribution:
     overrideState: 1
-    value: 0.91
+    value: 1
   temperature:
     overrideState: 1
     value: 8
